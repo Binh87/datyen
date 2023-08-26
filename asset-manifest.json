@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/datyen/static/css/main.e6c285ec.css",
+    "main.js": "/datyen/static/js/main.79ee47d3.js",
+    "static/js/787.6f144ff6.chunk.js": "/datyen/static/js/787.6f144ff6.chunk.js",
+    "static/media/slider2.jpg": "/datyen/static/media/slider2.98c55816e833e71b8725.jpg",
+    "static/media/slider4.jpg": "/datyen/static/media/slider4.3a6e21f0b50a80dddb39.jpg",
+    "static/media/slider5.jpg": "/datyen/static/media/slider5.f9520a951c963a98cb7a.jpg",
+    "static/media/slider3.jpg": "/datyen/static/media/slider3.02d5bd1d226be95aa415.jpg",
+    "static/media/slider1.jpg": "/datyen/static/media/slider1.b4a486ec6b2df868f6e6.jpg",
+    "static/media/logo.jpg": "/datyen/static/media/logo.8b9f4d370cb01fc86bf6.jpg",
+    "static/media/bg.png": "/datyen/static/media/bg.08d8e8b6c678c7008a3c.png",
+    "index.html": "/datyen/index.html",
+    "main.e6c285ec.css.map": "/datyen/static/css/main.e6c285ec.css.map",
+    "main.79ee47d3.js.map": "/datyen/static/js/main.79ee47d3.js.map",
+    "787.6f144ff6.chunk.js.map": "/datyen/static/js/787.6f144ff6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c285ec.css",
+    "static/js/main.79ee47d3.js"
+  ]
+}
